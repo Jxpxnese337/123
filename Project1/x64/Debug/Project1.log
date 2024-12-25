@@ -1,0 +1,36 @@
+﻿  MyForm.cpp
+C:\Users\Honor\Desktop\c++\Calculator\Project1\MyForm.h(778,43): warning C4101: ex: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Honor\Desktop\c++\Calculator\Project1\MyForm.h(801,27): warning C4101: ex: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Honor\Desktop\c++\Calculator\Project1\MyForm.h(811,27): warning C4101: ex: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Honor\Desktop\c++\Calculator\Project1\MyForm.h(820,27): warning C4101: ex: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Honor\Desktop\c++\Calculator\Project1\MyForm.h(829,27): warning C4101: ex: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Honor\Desktop\c++\Calculator\Project1\MyForm.h(838,27): warning C4101: ex: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Honor\Desktop\c++\Calculator\Project1\MyForm.h(847,27): warning C4101: ex: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Honor\Desktop\c++\Calculator\Project1\MyForm.h(856,27): warning C4101: ex: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Honor\Desktop\c++\Calculator\Project1\MyForm.h(866,27): warning C4101: ex: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Honor\Desktop\c++\Calculator\Project1\MyForm.h(891,31): warning C4101: ex: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Honor\Desktop\c++\Calculator\Project1\MyForm.h(939,27): warning C4101: ex: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\Honor\Desktop\c++\Calculator\x64\Debug\Project1.exe

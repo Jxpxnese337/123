@@ -1,0 +1,9 @@
+C:\Users\Honor\Desktop\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\Project1\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\Honor\Desktop\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Honor\Desktop\Calculator\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\Calculator\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\Honor\Desktop\Calculator\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Honor\Desktop\c++\Calculator\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\c++\Calculator\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\Honor\Desktop\c++\Calculator\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
